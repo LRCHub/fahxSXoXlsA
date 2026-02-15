@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Nikes",
+  "base_artist": "Frank Ocean",
+  "createdAt": "2026-02-15T08:36:44.987820Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fly in Her Nikes (feat. Josh Everette)",
+      "artist": "Mac Miller",
+      "has_synced": false,
+      "path": "select/01_Fly_in_Her_Nikes_(feat._Josh_Everette)_Mac_Miller.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nikes On My Feet",
+      "artist": "Mac Miller",
+      "has_synced": true,
+      "path": "select/02_Nikes_On_My_Feet_Mac_Miller.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Chokie Nikes (Skit)",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/03_Chokie_Nikes_(Skit)_Eve.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nikes",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/04_Nikes_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Reeboks Or the Nikes",
+      "artist": "Jakey",
+      "has_synced": true,
+      "path": "select/05_Reeboks_Or_the_Nikes_Jakey.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Nikes on My Feet",
+      "artist": "MAC MILLER",
+      "has_synced": true,
+      "path": "select/06_Nikes_on_My_Feet_MAC_MILLER.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nikes On",
+      "artist": "Healy",
+      "has_synced": true,
+      "path": "select/07_Nikes_On_Healy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Nikes",
+      "artist": "Nimstarr feat. kid toni",
+      "has_synced": true,
+      "path": "select/08_Nikes_Nimstarr_feat._kid_toni.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Nikes",
+      "artist": "Nimstarr/kid toni",
+      "has_synced": true,
+      "path": "select/09_Nikes_Nimstarr_kid_toni.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Nike's x McDonald's (feat. BLINKER & Philipp Dittberner)",
+      "artist": "Disarstar feat. BLINKER & Philipp Dittberner",
+      "has_synced": true,
+      "path": "select/10_Nike's_x_McDonald's_(feat._BLINKER_&_Philipp_Dittberner)_Disarstar_feat._BLINKER_&_Philipp_Dittberner.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Nike’s x McDonald’s",
+      "artist": "Disarstar feat. BLINKER & Philipp Dittberner",
+      "has_synced": true,
+      "path": "select/11_Nike’s_x_McDonald’s_Disarstar_feat._BLINKER_&_Philipp_Dittberner.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Nikes On",
+      "artist": "Healy",
+      "has_synced": true,
+      "path": "select/12_Nikes_On_Healy.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Nikes (Alt)",
+      "artist": "Jeff Rosenstock",
+      "has_synced": false,
+      "path": "select/13_Nikes_(Alt)_Jeff_Rosenstock.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Tiffany Nikes",
+      "artist": "Wale",
+      "has_synced": true,
+      "path": "select/14_Tiffany_Nikes_Wale.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Nikes",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/15_Nikes_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Nikes on My Feet",
+      "artist": "MAC MILLER",
+      "has_synced": true,
+      "path": "select/16_Nikes_on_My_Feet_MAC_MILLER.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Nikes on My Feet",
+      "artist": "MAC MILLER",
+      "has_synced": true,
+      "path": "select/17_Nikes_on_My_Feet_MAC_MILLER.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Dirty Nikes (Live Version)",
+      "artist": "Ruth B.",
+      "has_synced": false,
+      "path": "select/18_Dirty_Nikes_(Live_Version)_Ruth_B..txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Nikes",
+      "artist": "Frank Ocean",
+      "has_synced": false,
+      "path": "select/pl_01_Nikes_Frank_Ocean.txt"
+    }
+  ]
+}
